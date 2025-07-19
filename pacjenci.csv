@@ -1,0 +1,11 @@
+ID,Wiek,Płeć,Wzrost (cm),Waga (kg),Ciśnienie skurczowe,Ciśnienie rozkurczowe,Tętno,Cholesterol,Status
+1,25,Kobieta,165,60,120,80,72,180,Zdrowy
+2,47,Mężczyzna,178,85,140,90,85,240,Choroba serca
+3,52,Kobieta,160,58,135,85,78,220,Choroba serca
+4,36,Kobieta,170,68,128,82,74,200,Zdrowy
+5,61,Mężczyzna,175,90,150,95,90,260,Choroba serca
+6,45,Kobieta,168,65,132,84,76,210,Zdrowy
+7,30,Mężczyzna,180,88,145,92,88,250,Choroba serca
+8,58,Kobieta,158,54,125,78,70,190,Zdrowy
+9,42,Mężczyzna,172,80,138,88,86,230,Choroba serca
+10,50,Kobieta,166,62,130,83,75,205,Zdrowy
